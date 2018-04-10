@@ -2,7 +2,8 @@
 //#include "constants.h"
 #include "math.h"
 
-OE_t OE;
+SatElem OE;
+double rr[3], vv[3];
 
 double acose(double x)
 {
@@ -497,7 +498,7 @@ on the value of pl in about four iterations.
       temp1 = ck2  / pl;
       temp2 = temp1 / pl;
       cosio = cos(OE.xincl);
-      sinio = sin(OE.xincl);
+	  sinio = sin(OE.xincl);
       sin2u = sin(2.*u);
       cos2u = cos(2.*u);
       theta2 = cosio * cosio;

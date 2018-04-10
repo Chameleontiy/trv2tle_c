@@ -42,15 +42,40 @@ extern "C" {
         double aodp;        // semi-major axis
         double c2;          // internal drag term for bstar conversion
         double bstar;       // bstar drag term
-    } OE_t;
+	} SatElem;
 
     typedef struct rvVec {
         double rr[3];
         double vv[3];
     } RV_t;
 
-	double *rr2,
-			*vv2;
+
+//	typedef struct Satellite {
+//		static double *rr2,
+//						*vv2;
+//		double rr[3],
+//				vv[3];
+//		double jd,			// Julian date at epoch
+//				 mjd,       // modified Julian date
+//				 tle,       // epoch of elements in tle format
+//				 thetag,    // Greenwich hour angle in radians
+//				 xincl,     // inclination
+//				 xnodeo,    // right ascension of ascending node
+//				 eo,        // eccentricity
+//				 omegao,    // argument of the perigee
+//				 xmo,       // mean anomaly
+//				 xno,       // mean motion, radians/min
+//				 aodp,      // semi-major axis
+//				 c2,        // internal drag term for bstar conversion
+//				 bstar;     // BSTAR drag term
+
+//		double yy,			// year
+//				 doy,		// day of year
+//				 hr,		// hour
+//				 mn,		// minute
+//				 ss;		// second
+//	} SatElem;
+
 
     void sgp4(double tsince);
     void vadd(double* v1, double* v2, double* res);
