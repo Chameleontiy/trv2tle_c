@@ -4,7 +4,9 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.c \
-    orbit.c
+    orbit.c \
+    csvparser.c
 
 HEADERS += \
-    orbit.h
+    orbit.h \
+    csvparser.h

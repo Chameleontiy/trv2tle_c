@@ -1,0 +1,714 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"A"
+			],
+			[
+				"cou",
+				"counter1"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"Ar",
+				"ARRAY1"
+			],
+			[
+				"get",
+				"getCoords"
+			],
+			[
+				"te",
+				"setTimeout"
+			],
+			[
+				"con",
+				"ContinuousMonitoring"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "orbit.h",
+			"settings":
+			{
+				"buffer_size": 2551,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "orbit.c",
+			"settings":
+			{
+				"buffer_size": 20136,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 2487,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/gcc.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/gcc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/gcc.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"Snippet: ",
+				"Snippet: struct"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/User/Documents/QtProjects/rv2tle_C"
+	],
+	"file_history":
+	[
+		"/C/Users/User/Documents/QtProjects/build-rv2tle_C-Desktop_Qt_5_7_0_MinGW_32bit-Debug/VEC_KM.txt",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/User/Documents/QtProjects/rv2tle_C/rv2tle_C.sublime-project",
+		"/C/Users/User/Documents/QtProjects/rv2tle_C/rv2tle_C.pro.user",
+		"/C/Users/User/Documents/QtProjects/rv2tle_C/rv2tle_C.pro",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/gcc.sublime-build",
+		"/C/Qt/5.7/mingw53_32/bin/PATH environment variable/c.sublime-build",
+		"/C/prog/Желнин/Навигация/soft/ENVnap/Utils/Новый.trv",
+		"/C/prog/ENVnap/Utils/Новый.trv",
+		"/C/prog/ENVnap/TLEs/Sat6-Новый.txt",
+		"/C/prog/ENVnap/TLEs/Sat6.xml",
+		"/C/prog/Желнин/Навигация/soft/ENVnap/Config/EnvNAP.xml",
+		"/C/prog/Желнин/Навигация/soft/ENVnap/TLEs/Sat6.xml",
+		"/C/prog/Желнин/Навигация/soft/ENVnap/adjustment.txt",
+		"/C/prog/Желнин/Навигация/Navigation_projects/EnvNAP/bin/Debug/RS-30un.trv",
+		"/C/prog/Желнин/Навигация/soft/ENVnap/Status.txt",
+		"/C/prog/Желнин/Навигация/Navigation_projects/EnvNAP/bin/Debug/Sat6.xml",
+		"/C/prog/Желнин/Навигация/Navigation_projects/EnvNAP/bin/Debug/RS-30UN - копия.TRV",
+		"/C/Users/User/AppData/Local/Temp/_tc/sattools-master/tleinfo.c",
+		"/C/Users/User/AppData/Local/Temp/_tc/sattools-master/tle2ole.c",
+		"/C/Users/User/AppData/Local/Temp/_tc/sattools-master/rv2tle.c",
+		"/C/Users/User/AppData/Local/Temp/_tc/sattools-master/faketle.c",
+		"/C/prog/Code/BNV_D315.X/Makefile",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/NapParse.c",
+		"/C/prog/Желнин/Навигация/Отчёты/TRV2TLE/сектора/180404/774-775 04.04.2018 22-36.out180404_22_37_18.ENVx",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx.X/legal_disclaimer.txt",
+		"/C/prog/Желнин/Навигация/Отчёты/TRV2TLE/сектора/180404/774-775 04.04.2018 22-36.out180404_22_37_18.PROx",
+		"/C/prog/Желнин/Навигация/Отчёты/TRV2TLE/сектора/180404/774-775 04.04.2018 22-36.out180404_22_37_18.PrtErrLog",
+		"/C/prog/Желнин/Навигация/Отчёты/08022018 Проверка ECEFGeoECI/перевод.txt",
+		"/C/prog/Желнин/Навигация/Отчёты/Отчёт по ФТ.txt",
+		"/C/prog/Желнин/Навигация/Отчёты/TRV2TLE/сектора/180404/774-775 04.04.2018 22-36.out",
+		"/C/prog/Желнин/Навигация/Отчёты/TRV2TLE/сектора/180404/774-775 04.04.2018 22-36.out180404_22_37_18.TRVx",
+		"/C/prog/Желнин/Навигация/Отчёты/TRV2TLE/190418/ENVNapVStrv2tle_1.txt",
+		"/C/prog/Желнин/Навигация/Отчёты/TRV2TLE/сектора/180404/774-775 04.04.2018 22-36.mask",
+		"/C/prog/Желнин/Навигация/TLE/old/RS-48a2 (Nap)_1.tle",
+		"/C/prog/Желнин/Навигация/RV2TLE/VEC_KM.TXT",
+		"/C/Users/User/Documents/QtProjects/TRV2TLE/RV2TLE_KM.CPP",
+		"/C/prog/Желнин/Навигация/RV2TLE/RV2TLE_KM.CPP",
+		"/C/Users/User/Documents/QtProjects/TRV2TLE/orbit_gray.h",
+		"/C/Users/User/Documents/QtProjects/build-TRV2TLE-Desktop_Qt_5_7_0_MinGW_32bit-Debug/VEC_KM.txt",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx.X/.gitignore",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/orbit.c",
+		"/C/Users/User/Documents/QtProjects/TRV2TLE/date.h",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/MyMath.c",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/MyMath.h",
+		"/C/Users/User/Documents/QtProjects/rv2tle_C/orbit.h",
+		"/C/Users/User/Documents/QtProjects/rv2tle_C/orbit.c",
+		"/C/prog/Желнин/Навигация/Отчёты/TRV2TLE/сектора/180415/754-755 15.04.2018 11-59.out",
+		"/C/totalcmd/KEYBOARD.TXT",
+		"/C/totalcmd/SIZE!.TXT",
+		"//rm-obr-repl/F/RS-48a2/3. Navigation/Isprav/02052016/02052016/760-763 02.05.2016 2-09.out",
+		"//rm-obr-repl/F/RS-48a2/3. Navigation/Isprav/180416/770-772 16.04.2018 0-55.out",
+		"/C/prog/Желнин/Навигация/Отчёты/TRV2TLE/сектора/180416/770-772 16.04.2018 0-55.txt",
+		"//rm-obr-repl/F/RS-48a2/3. Navigation/Isprav/02052016/760-764 02.05.2016 7-37.out",
+		"//rm-obr-repl/F/RS-48a2/5. KTR/Isprav/DB Report 600-613 09.03.2018 11-25-20.txt",
+		"//rm-obr-repl/F/RS-48a2/5. KTR/Isprav/600-613 09.03.2018 11-25-20.txt",
+		"/C/Users/User/AppData/Local/Temp/_tc/TLE/RS-48a2-09595-180114_22_47_58.TLE",
+		"//rm-obr-repl/F/Repository/Plan170320.txt",
+		"/C/Users/User/AppData/Local/Temp/Rar$DIa0.369/mainwindow.h",
+		"/C/Users/User/AppData/Local/Temp/Rar$DIa0.414/mainwindow.cpp",
+		"/C/Users/User/AppData/Local/Temp/Rar$DIa0.019/main.cpp",
+		"/C/prog/Желнин/Навигация/TLE/051217.id",
+		"/C/prog/Желнин/Docs/шпорка.txt",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/SGP8.c",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/SGP4.c",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/SGPBase.c",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/sgp8.h",
+		"/C/prog/Code/SQL Requester/DecodeTm D-278_Aist2/Инструкция.txt",
+		"//rm-obr-repl/F/RS-48a2/read me .txt",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/sicoex.h",
+		"/C/prog/Code/BNV_D315.X/Source/ecan.h",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/knv_tm.h",
+		"/C/prog/Желнин/Навигация/RV2TLE/RV2TLE.CPP",
+		"/C/prog/Code/stanford-cpp-library-master/autograder/date.h",
+		"/C/prog/Желнин/Навигация/Navigation_projects/SourceNavCPP/orbit.h",
+		"/C/prog/Желнин/Навигация/Navigation_projects/SourceNavCPP/DATE.h",
+		"/C/Users/User/Documents/QtProjects/TRV2TLE/TRV2TLE.pro.user",
+		"/C/Users/User/Documents/QtProjects/TRV2TLE/VEC_KM.txt",
+		"/C/prog/Желнин/Навигация/RV2TLE/orbit_gray.h",
+		"/C/prog/Желнин/Навигация/Navigation_projects/SourceNavCPP/orbit_gray.h",
+		"/C/prog/Желнин/Навигация/Навигационные расчеты/OrbitTools/OrbitTools/Eci.cs",
+		"/C/Users/User/Documents/QtProjects/TRV2TLE/main.cpp",
+		"/C/prog/Желнин/Навигация/Navigation_projects/SourceNavCPP/CLAS2SAT.cpp",
+		"/C/prog/Желнин/Навигация/TLE/TLE rs48 15112017.tle",
+		"/C/Users/User/AppData/Local/Temp/Rar$DIa0.468/VEC_KM.TXT",
+		"/B/Расчёт витка по tle и trv.c",
+		"/C/prog/Code/Projects/sgp4/posvel/main.h",
+		"/C/prog/Code/BNV_D315.X/Source/TM_t.h",
+		"/C/prog/Желнин/Навигация/TLE/old/RS-48a2 (Nap)_1(only TLE).tle",
+		"/C/prog/Желнин/Навигация/TLE/old/RS-47e1 (Nap)_.tle",
+		"/C/prog/Code/BNV_D315.X/Source/Navig/coords.c",
+		"/B/Rs43.tle",
+		"//room305/#io/Состав пакета TLE.txt",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx/Source/SGP4_code.c",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx/.gitignore",
+		"/C/prog/Желнин/KNV/BNV/Проект BNV (лётный)/Примечания.txt",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx/Source/TM_t.h",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx/Source/SGP4_code.h",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx/Source/CanRX.h",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx/Source/CanRX.c",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx/Source/Earth_code.h",
+		"/C/prog/Code/DecodeTm D-278_Aist2/Инструкция.txt",
+		"/C/prog/Желнин/Навигация/TLE/09082018.id",
+		"/C/prog/Желнин/Навигация/TLE/TLE.id",
+		"/C/prog/Желнин/Навигация/TLE/09082018(new).id",
+		"//room305/#io/09082018.tle",
+		"/C/prog/Code/Projects/KNVT_Project/KNVT_Dxxx/nbproject/Makefile-genesis.properties",
+		"/C/prog/Code/Projects/KNVT_Project(not merged)/KNVT_Dxxx/nbproject/Makefile-genesis.properties",
+		"/C/prog/Желнин/Навигация/TLE/1.id",
+		"/C/prog/Желнин/Навигация/TLE/2.id",
+		"/C/prog/Желнин/Nav/Nav6-B2_new/Satellits/KNV-Ion/Load/TLE/old/RS-48a2 (Nap)_1(with code).tle",
+		"/C/prog/Желнин/Nav/Nav6-B2_new/Satellits/KNV-Ion/Load/TLE/old/RS-48a2 (Nap)_1(only TLE).tle",
+		"/C/prog/Желнин/Nav/Nav6-B2_new/Satellits/KNV-Ion/Load/TLE/old/RS-43as (Nrd).tle",
+		"/C/prog/Желнин/Nav/Nav6-B2_new/Satellits/KNV-Ion/Load/TLE/old/Rs43(140118)1.tle",
+		"/C/prog/Желнин/Nav/Nav6-B2_new/Satellits/KNV-Ion/Load/TLE/old/Rs43(140118) — копия.tle",
+		"/C/prog/Желнин/Nav/Nav6-B2_new/Satellits/KNV-Ion/Load/TLE/old/RS-47e1 (Nap).tle",
+		"/C/prog/Желнин/Nav/Nav6-B2_new/Satellits/KNV-Ion/Load/TLE/old/RS-46e0 (Nap).tle",
+		"/C/prog/Желнин/Навигация/TLE/TLE rs48 15112017.id",
+		"/C/prog/Желнин/Nav/Nav6-B2_new/Satellits/KNV-Ion/Load/TLE/Rs43(140118).tle",
+		"/C/prog/Желнин/Навигация/TLE/old/RS-48a2 (Nap).tle",
+		"/C/prog/Желнин/Навигация/TLE/old/RS-47e1 (Nap).tle",
+		"/C/prog/Желнин/Навигация/TLE/old/Rs43(140118)1.tle",
+		"/C/prog/Желнин/Навигация/TLE/old/RS-48a2 (Nap)_1(with code).tle",
+		"/C/prog/Желнин/Навигация/TLE/old/Rs43(140118) — копия.tle",
+		"/C/prog/Желнин/Навигация/TLE/09082018(new1).id"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "orbit.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "orbit.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										179,
+										180
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										156,
+										157
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rv2tle_C.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 203.0,
+		"last_filter": "DTime",
+		"selected_items":
+		[
+			[
+				"DTime",
+				"TIM_NapDataRxing_TIME"
+			],
+			[
+				"",
+				"ACTAN"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
